@@ -8,10 +8,10 @@ https://vishal-testtospeech.netlify.app/
 
 # Features
 
-Play
-Pause
-Resume
-Different Voices
-Rate
-Pitch
+Play,
+Pause,
+Resume,
+Different Voices,
+Rate,
+Pitch,
 Stop speech
